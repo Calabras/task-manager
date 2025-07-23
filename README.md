@@ -22,7 +22,7 @@ nvm install 22
 nvm use 22
 
 #Создайте и скачайте мой репозиторий
-git clone https://github.com/your‑username/task-manager.git
+git clone https://github.com/Calabras/task-manager.git
 cd task-manager
 
 #Установите необходимые зависимости
